@@ -1,2 +1,2 @@
-console.log('A');
+console.log('BBB');
 console.log('feture-A ブランチで追加')
